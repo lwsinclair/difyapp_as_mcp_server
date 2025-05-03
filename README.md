@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yevanchen-difyapp-as-mcp-server-badge.png)](https://mseep.ai/app/yevanchen-difyapp-as-mcp-server)
+
 # Dify as MCP Server
 
 将Dify工作流作为Model Context Protocol (MCP)服务器暴露给Claude等AI客户端。
